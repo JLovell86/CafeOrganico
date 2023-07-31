@@ -1,0 +1,170 @@
+
+* {
+	font-family: "Roboto", sans-serif !important;
+}
+
+h1, .h1, .h2, h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    font font-family: 'Roboto', sans-serif;
+    color: #566242;
+}
+
+h1, h2, h5 {
+    font-weight: 900;
+}
+
+h3, h4 {
+    font-weight: 400;
+}
+
+p { 
+    font-weight: 400;
+    font-size: 16px;
+}
+
+a {
+    color: #9EA950;
+}
+
+img {
+    border-radius: 20px;
+    border: none;
+}
+
+.top-bar, .top-bar ul, .title-bar {
+    background-color: #222222;
+    justify-content: end;
+    align-items: center;
+    padding: 5px 10px;
+}
+
+.menu a {
+    color: #FFFFFF;
+}
+
+body {
+    line-height: 1em;
+}
+
+header {
+	padding: 10px 10px;
+}
+
+
+
+h1 { 
+	font-size: 2.5rem;
+	font-weight: 900;
+}
+
+h2 {
+  font-size: 2.2rem;
+  font-weight: 200;
+}
+
+h3 {
+    font-size: 1.7rem;
+}
+
+.black-text {
+    color: #192619;
+}
+
+.white-text {
+    color: #FFFFFF;
+}
+
+.heavy-text {
+    font-weight: 900;
+}
+
+.bold-text {
+    font-weight: 700;
+}
+
+.hero-text {
+    color: #FFFFFF;
+    padding: 2%;
+    margin: 2% 1%;
+}
+
+.logo {
+    width: 250px;
+    max-width: 85%;
+    text-align: left;
+}
+
+.featured { 
+  background-image: url('../img/hero1.jpeg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding-top: 250px;
+  padding-bottom: 1%;
+  min-height: 50vh;
+}
+
+
+.pattern {
+    width: 500px;
+}
+
+.intro {
+    padding: 5% 2%;
+}
+
+.cafe-column {
+    padding: 1em 1em;
+}
+
+.product-image {
+    width: 50vh;
+    margin-bottom: -1em;
+    box-shadow: 5px 5px 5px 2px #9EA590;
+
+}
+
+.cta-box {
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    border: 2px solid #9EA590;
+    padding: 2em 1em;
+}
+
+.cafe-form {
+    padding: 1em 0 0 0;
+}
+
+.cafe-form input, .cafe-form textarea {
+    border-radius: 10px;
+}
+
+.input-button {
+    background-color: #192619;
+    font-weight: 900;
+    padding: 10px 20px;
+    border-radius: 20px !important;
+    border: none;
+    color: #FFFFFF;
+}
+
+.input-button:hover {
+    background-color: #566242;
+    font-weight: 900;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    color: #FFFFFF;
+}
+
+
+footer {
+   background-color: #566242;
+   padding: .5em;
+   text-align: center;
+   color: #FFFFFF;
+}
+
+
+
+
+
